@@ -8,7 +8,7 @@ import javafx.geometry.Rectangle2D;
 import java.util.Optional;
 
 
-public class Demo extends Application
+public class JavaFXDemo extends Application
 {
     @Override
     public void start(Stage primaryStage)
